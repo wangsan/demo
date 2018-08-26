@@ -1,4 +1,4 @@
-package com.wangsan.study.zookeeper.apache;
+package com.wangsan.study.zookeeper.apache.study;
 
 import com.google.common.base.Charsets;
 import org.apache.zookeeper.*;
